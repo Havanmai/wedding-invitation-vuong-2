@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/vuong.html" },
+    { "source": "/g9df/:path*", "destination": "/stubs/tracking.js" },
+    { "source": "/g9df", "destination": "/stubs/tracking.js" }
+  ]
+}

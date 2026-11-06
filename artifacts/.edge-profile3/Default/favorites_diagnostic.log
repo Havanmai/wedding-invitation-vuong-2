@@ -1,0 +1,16 @@
+2026-11-05 11:12:11.444: [INFO] CurrentProfilePath: D:\Learn\Vuong\artifacts\.edge-profile3\Default
+2026-11-05 11:12:11.444: [INFO] Profiles total count: 1
+2026-11-05 11:12:11.444: [INFO] Profile: name=Profile 1 path=D:\Learn\Vuong\artifacts\.edge-profile3\Default lastActive=null
+2026-11-05 11:12:11.444: [INFO] LastUsedProfileDir: D:\Learn\Vuong\artifacts\.edge-profile3\Default
+2026-11-05 11:12:11.444: [INFO] VisibilityChanged: 0
+2026-11-05 11:12:11.461: [INFO] OnDoneLoading sync enabled: 0
+2026-11-05 11:12:11.461: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-05 11:12:11.461: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-05 11:12:11.461: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-05 11:12:11.518: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-11-05 11:12:11.602: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-11-05 11:12:11.605: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-11-05 11:12:11.608: [INFO] Primary account changed.
+2026-11-05 11:12:11.608: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-11-05 11:12:11.616: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-11-05 11:12:11.636: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3

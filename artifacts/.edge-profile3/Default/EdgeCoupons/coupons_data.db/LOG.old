@@ -1,0 +1,5 @@
+2026/11/05-18:12:17.750 8fbc Creating DB D:\Learn\Vuong\artifacts\.edge-profile3\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/11/05-18:12:27.563 8fbc Reusing MANIFEST D:\Learn\Vuong\artifacts\.edge-profile3\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/11/05-18:12:29.499 9c7c Level-0 table #5: started
+2026/11/05-18:12:29.505 9c7c Level-0 table #5: 683284 bytes OK
+2026/11/05-18:12:29.508 9c7c Delete type=0 #3
